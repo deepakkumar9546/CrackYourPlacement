@@ -1,0 +1,2 @@
+Welcome to the #CrackYourPlacement repository! This repository is dedicated to helping you prepare for technical interviews by practicing a curated set of Data Structures and Algorithms (DSA) questions compiled by Arsh Goyal.
+The DSA Sheet by Arsh Goyal is a comprehensive collection of questions designed to cover various topics and difficulty levels in data structures and algorithms. It aims to equip you with the skills and confidence needed to tackle interview questions effectively.
